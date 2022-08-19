@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+  }
+  .scrollItems{
+    padding: 40px;
+    
+  }
+
+  @media screen and (max-width: 600px) {
+    .containerItems {
+      visibility: hidden;
+      clear: both;
+      float: left;
+      display: none;
+    }
+  }
+  

@@ -1,0 +1,47 @@
+.parametres {
+  margin: auto;
+
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.title_parametres {
+  max-width: 1500px;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.parametres_Table {
+  padding-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7%;
+  width: 100%;
+}
+.items_parametres_Table {
+  display: flex;
+  flex-wrap: wrap;
+  gap:3%;
+  justify-content: center;
+  
+}
+
+Button{
+  padding: 50px;
+}
+
+.paramatersButtons{
+  display: flex;
+  justify-content: center;
+  padding: 18px;
+  background-color: white;
+  box-shadow:
+  rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-radius: 8px;
+  margin: 3%;
+}
+
+
